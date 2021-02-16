@@ -33,5 +33,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Follow Paqi Aysia on Social Media!
 
 [Twitter: @Paqi_Aysia](https://twitter.com/Paqi_Aysia)
+
 [Reddit: @Paqi_Aysia](https://www.reddit.com/user/Paqi_Aysia/)
-[Github](https://github.com/Paqi-Aysia)
+
+[Github: @Paqi_Aysia](https://github.com/Paqi-Aysia)
