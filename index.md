@@ -1,5 +1,7 @@
 ## Super Paqi Currencies
 
+![image](https://gateway.pinata.cloud/ipfs/QmTeNrkVUgJWejSrNNAqrdiEhL3gzRiNVNxmHkRELU3j5D/UniswapPaqi.png)
+
 You can use the [editor on GitHub](https://github.com/Paqi-Aysia/Paqi-Aysia.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
