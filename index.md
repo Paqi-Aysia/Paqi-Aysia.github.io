@@ -1,6 +1,6 @@
 ## Super Paqi Currencies
 
-![image](https://gateway.pinata.cloud/ipfs/QmTeNrkVUgJWejSrNNAqrdiEhL3gzRiNVNxmHkRELU3j5D/UniswapPaqi.png) s=50
+![image](https://gateway.pinata.cloud/ipfs/QmTeNrkVUgJWejSrNNAqrdiEhL3gzRiNVNxmHkRELU3j5D/UniswapPaqi.png) 
 
 You can use the [editor on GitHub](https://github.com/Paqi-Aysia/Paqi-Aysia.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
