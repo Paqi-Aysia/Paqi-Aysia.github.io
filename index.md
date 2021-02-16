@@ -1,6 +1,7 @@
 ## Super Paqi Currencies
 
-![image](https://gateway.pinata.cloud/ipfs/QmTeNrkVUgJWejSrNNAqrdiEhL3gzRiNVNxmHkRELU3j5D/UniswapPaqi.png) (Uniswap Paqi)
+![image](https://gateway.pinata.cloud/ipfs/QmTeNrkVUgJWejSrNNAqrdiEhL3gzRiNVNxmHkRELU3j5D/UniswapPaqi.png) 
+                                          (Uniswap Paqi)
 
 Non-Fungible Tokens (NFTs) are cryptographic tokens that represents a unique asset. NFTs are in contrast to Fungible Tokens which are cryptographic tokens that have equal value to that same token. One example of an NFT is a digital piece of art in which there is only one copy of. Conversely, an example of a fungible token is bitcoin in which each bitcoin is of equal value to each other. Super Paqi Currencies is an NFT art project that derives unique value using the ethereum's ERC-721 blockchain technology.
 
