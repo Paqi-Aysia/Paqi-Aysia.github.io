@@ -20,27 +20,9 @@ Super Paqi Currencies is an 8-bit series of avatars that embody one of the top t
 
 ### Artist Statement
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Ethereum and Bitcoin are the behemoths of the crypto space. However, every bull run various altcoins get their time in the limelight with 10x price pumps and sometimes more! During these bull markets and even during shifts to bear markets, the top cryptocurrencies in coin market cap can change drastically. An example of this can be seen with XRP which plummeted below top 20 in coin market cap after the SEC crackdown, but for various reseasons pumped back up to be in the top ten cryptocurrencies by market cap within the couple months. Super Paqi Currencies attemps to pay homage to this volatile history of cryptocurrencies. With each series of releases, Super Paqi Currencies release four NFTs that represent four of the top 20 cryptocurrencies by market cap. The goal is that over time, despite the fallout or boom of cryptocurrencies, an artistic, NFT history can be kept of the cryptocurrencies that once had (or still may have) market dominance.
 
-```markdown
-Syntax highlighted code block
-
-# Super Paqi Currencies
-## NFT Art Project
-### SPC
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Not only is Super Paqi Currencies an artistic digital record of popular cryptocurrencies, it's also an exploration to the question "What is value?".
 
 ### About Paqi Aysia
 
