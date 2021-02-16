@@ -44,6 +44,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 ### About the Artist
 
+![image](https://gateway.pinata.cloud/ipfs/QmTcdTL3jYHgPo5USWfKUNPPAoNRWzA7bkD1BnhmWYZuoX) 
+<p align="center">(Paqi Aysia)</p>
+
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Paqi-Aysia/Paqi-Aysia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Follow Paqi Aysia on Social Media!
