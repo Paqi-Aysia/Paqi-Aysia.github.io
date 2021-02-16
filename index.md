@@ -4,7 +4,7 @@ Non-Fungible Tokens (NFTs) are cryptographic tokens that represents a unique ass
 
 Super Paqi Currencies is an 8-bit series of avatars that embody one of the top twenty cryptocurrencies, my market-cap, at the time the NFT is minted. The first release of Super Paqi Currencies consist of "Uniswap Paqi", "Bitcoin Paqi", "Etheruem Paqi", and "Chainlink Paqi". These NFTs can be purchased on the [Opensea](https://opensea.io/), an NFT trading platform. 
 
-![image](https://gateway.pinata.cloud/ipfs/QmTeNrkVUgJWejSrNNAqrdiEhL3gzRiNVNxmHkRELU3j5D/UniswapPaqi.png =25x25) 
+![image](https://gateway.pinata.cloud/ipfs/QmTeNrkVUgJWejSrNNAqrdiEhL3gzRiNVNxmHkRELU3j5D/UniswapPaqi.png) 
 <p align="center">(Uniswap Paqi)</p>
 
 ![image](https://gateway.pinata.cloud/ipfs/Qmf15SkvfEacc1DAMR2nqntC4u51FiRVaHz65do5PWLGzs/BitcoinPaqi.png) 
