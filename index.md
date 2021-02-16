@@ -7,7 +7,18 @@ Non-Fungible Tokens (NFTs) are cryptographic tokens that represents a unique ass
 
 Super Paqi Currencies is an 8-bit series of avatars that embody one of the top twenty cryptocurrencies, my market-cap, at the time the NFT is minted. The first release of Super Paqi Currencies consist of "Uniswap Paqi", "Bitcoin Paqi", "Etheruem Paqi", and "Chainlink Paqi". These NFTs can be purchased on the [Opensea](https://opensea.io/), an NFT trading platform. 
 
-### About the Artist
+![image](https://gateway.pinata.cloud/ipfs/Qmf15SkvfEacc1DAMR2nqntC4u51FiRVaHz65do5PWLGzs/BitcoinPaqi.png) 
+<p align="center">(Bitcoin Paqi)</p>
+
+
+![image](https://gateway.pinata.cloud/ipfs/QmckziiSG228YsRpJbrNba9spgDrSr8FKtZUnWfGeR3o1E) 
+<p align="center">(Ethereum Paqi)</p>
+
+
+![image](https://gateway.pinata.cloud/ipfs/Qmctuoak5SGcmxfTDdrivnh77Bo6Kw9eQE4KSv5F9id4Vo/ChainlinkPaqi.png) 
+<p align="center">(Chainlink Paqi)</p>
+
+### Artist Statement
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -31,10 +42,11 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### About the Artist
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Paqi-Aysia/Paqi-Aysia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Follow Paqi Aysia on Social Media!
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Twitter: @Paqi_Aysia](https://twitter.com/Paqi_Aysia)
+[Reddit: @Paqi_Aysia](https://www.reddit.com/user/Paqi_Aysia/)
