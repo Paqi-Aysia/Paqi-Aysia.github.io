@@ -6,7 +6,7 @@ Super Paqi Currencies is an 8-bit series of avatars that embody one of the top t
 
 ## Super Paqi Currencies No.1
 
-<img src="https://gateway.pinata.cloud/ipfs/QmTeNrkVUgJWejSrNNAqrdiEhL3gzRiNVNxmHkRELU3j5D/UniswapPaqi.png" width="100">
+<img src="https://gateway.pinata.cloud/ipfs/QmTeNrkVUgJWejSrNNAqrdiEhL3gzRiNVNxmHkRELU3j5D/UniswapPaqi.png" width="400">
 <p align="center">(Uniswap Paqi)</p>
 
 ![image](https://gateway.pinata.cloud/ipfs/Qmf15SkvfEacc1DAMR2nqntC4u51FiRVaHz65do5PWLGzs/BitcoinPaqi.png) 
