@@ -7,15 +7,8 @@ Super Paqi Currencies is an 8-bit series of avatars that embody one of the top t
 ## Super Paqi Currencies No.1
 
 <img src="https://gateway.pinata.cloud/ipfs/QmTeNrkVUgJWejSrNNAqrdiEhL3gzRiNVNxmHkRELU3j5D/UniswapPaqi.png" width="400"> <img src="https://gateway.pinata.cloud/ipfs/Qmf15SkvfEacc1DAMR2nqntC4u51FiRVaHz65do5PWLGzs/BitcoinPaqi.png" width="428"> 
-<p align="left">Uniswap Paqi (L), Bitcoin Paqi (R)</p>
 
-
-![image](https://gateway.pinata.cloud/ipfs/QmckziiSG228YsRpJbrNba9spgDrSr8FKtZUnWfGeR3o1E) 
-<p align="center">(Ethereum Paqi)</p>
-
-
-![image](https://gateway.pinata.cloud/ipfs/Qmctuoak5SGcmxfTDdrivnh77Bo6Kw9eQE4KSv5F9id4Vo/ChainlinkPaqi.png) 
-<p align="center">(Chainlink Paqi)</p>
+<img src="https://gateway.pinata.cloud/ipfs/QmckziiSG228YsRpJbrNba9spgDrSr8FKtZUnWfGeR3o1E" width="400"> <img src="https://gateway.pinata.cloud/ipfs/Qmctuoak5SGcmxfTDdrivnh77Bo6Kw9eQE4KSv5F9id4Vo/ChainlinkPaqi.png" width="400"> 
 
 ## Artist Statement
 
