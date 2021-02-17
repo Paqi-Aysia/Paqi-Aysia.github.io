@@ -4,7 +4,7 @@ Non-Fungible Tokens (NFTs) are cryptographic tokens that represents a unique ass
 
 Super Paqi Currencies is an 8-bit series of avatars that embody one of the top twenty cryptocurrencies, by market-cap, at the time the NFT is minted. The first release of the Super Paqi Currencies series consist of "Uniswap Paqi", "Bitcoin Paqi", "Etheruem Paqi", and "Chainlink Paqi". These NFTs can be purchased on the [Opensea](https://opensea.io/), an NFT trading platform. 
 
-### Super Paqi Currencies No.1
+## Super Paqi Currencies No.1
 
 ![image](https://gateway.pinata.cloud/ipfs/QmTeNrkVUgJWejSrNNAqrdiEhL3gzRiNVNxmHkRELU3j5D/UniswapPaqi.png) 
 <p align="center">(Uniswap Paqi)</p>
@@ -20,13 +20,13 @@ Super Paqi Currencies is an 8-bit series of avatars that embody one of the top t
 ![image](https://gateway.pinata.cloud/ipfs/Qmctuoak5SGcmxfTDdrivnh77Bo6Kw9eQE4KSv5F9id4Vo/ChainlinkPaqi.png) 
 <p align="center">(Chainlink Paqi)</p>
 
-### Artist Statement
+## Artist Statement
 
 Ethereum and Bitcoin are the behemoths of the crypto space. However, every bull run various altcoins get their time in the limelight with 10x price pumps and sometimes more! During these bull markets, and even during bear markets, the top cryptocurrencies in coin market cap can change drastically. An example of this can be seen with XRP which plummeted below top 20 in coin market cap after the SEC crackdown, but for various reseasons pumped back up to be in the top ten cryptocurrencies by market cap within the couple months. Super Paqi Currencies attemps to pay homage to this volatile history of cryptocurrencies. With each series of releases, Super Paqi Currencies release four NFTs that represent four of the top 20 cryptocurrencies by market cap. The goal is that over time, despite the fallout or boom of cryptocurrencies, an artistic, NFT history can be kept of the cryptocurrencies that once had (or still may have) market dominance.
 
 Not only is Super Paqi Currencies an artistic digital record of popular cryptocurrencies, it's also an exploration to the question "What is value?".
 
-### About Paqi Aysia
+## About Paqi Aysia
 
 ![image](https://gateway.pinata.cloud/ipfs/QmcaQCnx1H3YCLZjNZMpYmdMKr9DRhnQ5x6bjn8HazxQk8/PaqiAvatarGitHubPages.png) 
 
