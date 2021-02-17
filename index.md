@@ -20,7 +20,9 @@ Not only is Super Paqi Currencies an artistic digital record of popular cryptocu
 
 <img src="https://gateway.pinata.cloud/ipfs/QmcaQCnx1H3YCLZjNZMpYmdMKr9DRhnQ5x6bjn8HazxQk8/PaqiAvatarGitHubPages.png" width="350"> 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Paqi-Aysia/Paqi-Aysia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+I am primarily an 8-bit style NFT artist who enjoys making characters that embody objects or symbols. Creating 8-bit avatars is my way of personifying objects I interact with in day to day life. For me, art is an outlet to turn things I see and experience into my own little virtual reality space. My goal is to bring my NFT's to virtual platforms like Decentraland and create an array of cute, enjoyable avatars that can give people the sentimental feelings associated with the lovable objects they may have interacted with in the past. 
+
+I started my journey into the blockchain space first as an ethereum miner and then began to explore the development and NFT side of the Ethereum blockchain. As I learn more and more about the crypto space, I fall further in love with it. I hope that in learning about ethereum development and creating a unique style of NFT art, I can leave a lasting impact on the community that brings people together.
 
 ### Follow Paqi Aysia on Social Media!
 
