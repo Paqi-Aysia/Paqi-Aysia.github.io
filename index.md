@@ -18,7 +18,7 @@ Not only is Super Paqi Currencies an artistic digital record of popular cryptocu
 
 ## About Paqi Aysia
 
-![image](https://gateway.pinata.cloud/ipfs/QmcaQCnx1H3YCLZjNZMpYmdMKr9DRhnQ5x6bjn8HazxQk8/PaqiAvatarGitHubPages.png) 
+<img src="https://gateway.pinata.cloud/ipfs/QmcaQCnx1H3YCLZjNZMpYmdMKr9DRhnQ5x6bjn8HazxQk8/PaqiAvatarGitHubPages.png" width="350"> 
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Paqi-Aysia/Paqi-Aysia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
