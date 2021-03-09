@@ -1,6 +1,6 @@
 # Super Paqi Currencies
 
-Non-Fungible Tokens (NFTs) are cryptographic tokens that represents an unique digital asset. NFTs are in contrast to Fungible Tokens which are cryptographic tokens that have equal value to that same token. One example of an NFT is a digital piece of art in which there is only one copy of. Conversely, an example of a fungible token is Bitcoin in which each Bitcoin is of equal value to each other. Super Paqi Currencies is an NFT art project that derives unique value using ethereum's ERC-721 blockchain technology.
+Non-Fungible Tokens (NFTs) are cryptographic tokens that represents an unique digital asset. NFTs are in contrast to Fungible Tokens which are cryptographic tokens that have equal value to that same token. One example of an NFT is a digital piece of art in which there is only one copy of. Conversely, an example of a fungible token is Bitcoin in which each Bitcoin is of equal value to each other. Super Paqi Currencies is an NFT art project that derives unique value using Ethereum's ERC-721 blockchain technology.
 
 Super Paqi Currencies is an 8-bit series of avatars that embody one of the top twenty cryptocurrencies, by market-cap, at the time the NFT is minted. The first release of the Super Paqi Currencies series consist of "Uniswap Paqi", "Bitcoin Paqi", "Etheruem Paqi", and "Chainlink Paqi". These NFTs can be purchased on the [Opensea](https://opensea.io/collection/super-paqi-currencies), an NFT trading platform. 
 
