@@ -6,7 +6,7 @@ Super Paqi Currencies is an 8-bit series of avatars that embody one of the top t
 
 ## Super Paqi Currencies Series 2
 <img src="https://gateway.pinata.cloud/ipfs/QmfFL1CUvBzVXXouYQLcXjXp1bXkZkVLQHLaSs4vPnLcnz/XRP%20Paqi.png" width="300">
-<img src="https://gateway.pinata.cloud/ipfs/QmVyQoWU8P6ktCGjShgkkBDamfM88AezbX9YMfPpKm7wip/Cardano%20Paqi.png" width="315">
+<img src="https://gateway.pinata.cloud/ipfs/QmVyQoWU8P6ktCGjShgkkBDamfM88AezbX9YMfPpKm7wip/Cardano%20Paqi.png" width="300">
 <img src="https://gateway.pinata.cloud/ipfs/QmXHShQmY351bmA1J98hFhAsD7WLXy7cR9m8JncQ5jamUn/BitcoinCashPaqi.jpg" width="300"> 
 <img src="https://gateway.pinata.cloud/ipfs/QmbrGDhZtuh35rgFtuRewWLSAUpBWo3NSkZUir89Cwy3br/EthereumClassicPaqi.jpg" width="315"> 
 
