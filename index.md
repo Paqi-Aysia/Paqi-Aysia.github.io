@@ -4,17 +4,25 @@ Non-Fungible Tokens (NFTs) are cryptographic tokens that represents an unique di
 
 Super Paqi Currencies is an 8-bit series of avatars that embody one of the top twenty cryptocurrencies, by market-cap, at the time the NFT is minted. The first release of the Super Paqi Currencies series consist of "Uniswap Paqi", "Bitcoin Paqi", "Etheruem Paqi", and "Chainlink Paqi". The second release of Super Paqi Currencies consist of "Bitcoin Cash Paqi", "Ripple Paqi", "Cardano Paqi", and "Ethereum Classic Paqi". These NFTs can be purchased on the [Opensea](https://opensea.io/collection/super-paqi-currencies), an NFT trading platform.
 
+## Super Paqi Currencies Series 3
+# Including Polygon Paqi and Dogecoin Paqi!
+<img src="https://gateway.pinata.cloud/ipfs/QmWyHxBo6D3RwS87gynpcBTksPqrk9qBrk8f8UgeDAJK8n/Dogecoin%20Paqi.png" width="295">
+<img src="https://gateway.pinata.cloud/ipfs/QmVhdY9BKcmwmJYXTuyf6JfwxCN8sNcpCYsVpznS5qcJga/PolygonPaqi.png" width="295">
+
 ## Super Paqi Currencies Series 2
+# Including Ethereum Classic Paqi, Bitcoin Cash Paqi, Cardano Paqi, and Ripple Paqi!
 <img src="https://gateway.pinata.cloud/ipfs/QmfFL1CUvBzVXXouYQLcXjXp1bXkZkVLQHLaSs4vPnLcnz/XRP%20Paqi.png" width="295">
 <img src="https://gateway.pinata.cloud/ipfs/QmVyQoWU8P6ktCGjShgkkBDamfM88AezbX9YMfPpKm7wip/Cardano%20Paqi.png" width="320">
 <img src="https://gateway.pinata.cloud/ipfs/QmXHShQmY351bmA1J98hFhAsD7WLXy7cR9m8JncQ5jamUn/BitcoinCashPaqi.jpg" width="300"> 
 <img src="https://gateway.pinata.cloud/ipfs/QmbrGDhZtuh35rgFtuRewWLSAUpBWo3NSkZUir89Cwy3br/EthereumClassicPaqi.jpg" width="315"> 
 
 ## Super Paqi Currencies Series 1
+# Including Chainlink Paqi, Ethereum Paqi, Bitcoin Paqi, and Uniswap Paqi!
 
-<img src="https://gateway.pinata.cloud/ipfs/QmTeNrkVUgJWejSrNNAqrdiEhL3gzRiNVNxmHkRELU3j5D/UniswapPaqi.png" width="300"> <img src="https://gateway.pinata.cloud/ipfs/Qmf15SkvfEacc1DAMR2nqntC4u51FiRVaHz65do5PWLGzs/BitcoinPaqi.png" width="321"> 
-
-<img src="https://gateway.pinata.cloud/ipfs/QmckziiSG228YsRpJbrNba9spgDrSr8FKtZUnWfGeR3o1E" width="335"> <img src="https://gateway.pinata.cloud/ipfs/Qmctuoak5SGcmxfTDdrivnh77Bo6Kw9eQE4KSv5F9id4Vo/ChainlinkPaqi.png" width="286"> 
+<img src="https://gateway.pinata.cloud/ipfs/QmTeNrkVUgJWejSrNNAqrdiEhL3gzRiNVNxmHkRELU3j5D/UniswapPaqi.png" width="300"> 
+<img src="https://gateway.pinata.cloud/ipfs/Qmf15SkvfEacc1DAMR2nqntC4u51FiRVaHz65do5PWLGzs/BitcoinPaqi.png" width="321"> 
+<img src="https://gateway.pinata.cloud/ipfs/QmckziiSG228YsRpJbrNba9spgDrSr8FKtZUnWfGeR3o1E" width="335"> 
+<img src="https://gateway.pinata.cloud/ipfs/Qmctuoak5SGcmxfTDdrivnh77Bo6Kw9eQE4KSv5F9id4Vo/ChainlinkPaqi.png" width="286"> 
 
 ## Artist Statement
 
