@@ -7,7 +7,7 @@ Super Paqi Currencies is an 8-bit series of avatars that embody one of the top t
 ## Super Paqi Currencies Series 3
 ### Including Polygon Paqi and Dogecoin Paqi!
 <img src="https://gateway.pinata.cloud/ipfs/QmWyHxBo6D3RwS87gynpcBTksPqrk9qBrk8f8UgeDAJK8n/Dogecoin%20Paqi.png" width="295">
-<img src="https://gateway.pinata.cloud/ipfs/QmVhdY9BKcmwmJYXTuyf6JfwxCN8sNcpCYsVpznS5qcJga/PolygonPaqi.png" width="310">
+<img src="https://gateway.pinata.cloud/ipfs/QmVhdY9BKcmwmJYXTuyf6JfwxCN8sNcpCYsVpznS5qcJga/PolygonPaqi.png" width="308">
 
 ## Super Paqi Currencies Series 2
 ### Including Ethereum Classic Paqi, Bitcoin Cash Paqi, Cardano Paqi, and Ripple Paqi!
